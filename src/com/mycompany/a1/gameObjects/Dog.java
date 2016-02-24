@@ -7,5 +7,6 @@ public class Dog extends Animal {
 	//Constructor 
 	public Dog() {
 		this.setColor(ColorUtil.rgb(6,4,3));
+		
 	}
 }
